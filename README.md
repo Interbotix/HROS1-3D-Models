@@ -12,7 +12,7 @@ STEP Format
 * Assembly_STEP/HR-OS1-Endo-v1.stp
 * [HR-OS1 Endoskeleton Model Viewer on SketchLab](https://skfb.ly/CKso)
 
-### HR-OS5 3D Printed Parts 
+### HR-OS1 3D Printed Parts 
 STL Format
 * 3DPrintedShells_STL/Orion/
 * 3DPrintedShells_STL/Endo/
